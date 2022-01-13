@@ -1,1 +1,16 @@
-# instructions
+# Resources
+- [aws](./aws) contains resources related to using AWS
+- [python](./python) contains resources related to using Python
+- [colab](./colab) contains resources related to using Google Colab
+- [github](./github) contains resources related to using GitHub
+- **video_demos** (on class Microsoft Teams) contains video demos for the following
+  - Access AWS SQL DB using MySQL Workbench.mp4
+  - Create Ec2 Instance for MongoDB.mp4
+  - Create SQL DB on AWS.mp4
+  - Getting started with Amazon S3 - Demo.mp4
+  - Install MongoDB & Enable Remote Access.mp4
+  - Launch an Amazon EC2 Instance.mp4
+  - PyMongo Example on Colab.mp4
+  - Query AWS SQL DB from Google Colab.mp4
+  - Setup a Hadoop Cluster on AWS EMR.mp4
+  - Using Google Colab with GitHub.mp4

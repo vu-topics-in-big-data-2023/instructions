@@ -1,3 +1,5 @@
+# [Student AWS Website](https://www.awsacademy.com/SiteLogin)
+
 # Connecting to student AWS
 - Accept course invitation by selecting get started
 ![](screenshots/aws_academy_email.png)
@@ -7,6 +9,10 @@
 - **read the instructions** in the frame to the right of the terminal
 - start the aws lab by selecting start lab (it is ready when circle under aws is green, may take a while)
 ![](screenshots/aws_start_lab.png)
+
+
+# Getting CLI credentials from student AWS
+
 
 # EC2 from AWS
 Launching EC2 instance from new classroom
