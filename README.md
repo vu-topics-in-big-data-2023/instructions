@@ -3,6 +3,7 @@
 - [python](./python) contains resources related to using Python
 - [colab](./colab) contains resources related to using Google Colab
 - [github](./github) contains resources related to using GitHub
+- [linux commands](./linux_commands.md) contains frequently used commands and resources
 - **video_demos** (on class Microsoft Teams) contains video demos for the following
   - Access AWS SQL DB using MySQL Workbench.mp4
   - Create Ec2 Instance for MongoDB.mp4

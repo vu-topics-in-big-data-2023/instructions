@@ -1,0 +1,4 @@
+- [student_aws](./student_aws.md) contains guides and information on how to use student aws
+- [aws_cli](./aws_cli) contains resources on how to use and set up the aws cli
+- [ec2](./ec2) contains tutorials on hour to use and set up an EC2 instance
+- [student_aws_academy_learner_lab_guide.pdf](student_aws_academy_learner_lab_guide.pdf) is the official starting guide for learner lab. Please read.

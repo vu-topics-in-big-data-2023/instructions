@@ -21,10 +21,10 @@ The AWS Command Line Interface (AWS CLI) is an open source tool that enables you
 
 # Installing AWS CLI
 
-[Official AWS Installation Instructions](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
-For Operating specific instructions, please view the "Installing, updating, and uninstalling the AWS CLI version 2 on *.md" instructions in the directory
+- [Official AWS Installation Instructions](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
+- For Operating specific instructions, please view the "Installing, updating, and uninstalling the AWS CLI version 2 on *.md" instructions in the directory
 
 # Configuring AWS CLI
-[Official AWS quick set-up instructions](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-quickstart.html)
-[Official AWS configuration file settings](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
-[Offline Documentation that contains student lab specifics](./configure_the_cli.md)
+- [Official AWS quick set-up instructions](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-quickstart.html)
+- [Official AWS configuration file settings](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
+- [Offline Documentation that contains student lab specifics](./configure_the_cli.md)

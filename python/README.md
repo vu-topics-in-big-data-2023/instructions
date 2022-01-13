@@ -3,3 +3,4 @@
 [Pandas DataFrame Documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html)
 [PyMongo Documentation](https://pymongo.readthedocs.io/en/stable/api/index.html)
 [W3 School PyMongo Guide](https://www.w3schools.com/python/python_mongodb_getstarted.asp)
+[W3 School SQL Guide](https://www.w3schools.com/sql/)
