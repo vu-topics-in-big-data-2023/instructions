@@ -1,9 +1,11 @@
 # Resources
 - [aws](./aws) contains resources related to using AWS
-- [python](./python) contains resources related to using Python
 - [colab](./colab) contains resources related to using Google Colab
 - [github](./github) contains resources related to using GitHub
+- [python_resources](./python_resources.md) contains resources related to using Python
 - [linux commands](./linux_commands.md) contains frequently used commands and resources
+- [extra_reading](./extra_reading) contains extra reading that is helpful to know
+
 - **video_demos** (on class Microsoft Teams) contains video demos for the following
   - Access AWS SQL DB using MySQL Workbench.mp4
   - Connect to EC2 using PuTTY (Windows).mp4
