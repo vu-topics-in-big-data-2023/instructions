@@ -10,6 +10,6 @@ Google colab is an online jupyter notebook running on colab servers that we may 
 * [Installing packages in colab notebooks](https://colab.research.google.com/notebooks/snippets/importing_libraries.ipynb) 
 * [Working with external data in google colab](https://colab.research.google.com/notebooks/io.ipynb)
 
-## Advanced:
+## Advanced
  * [Directly working with Colab using AWS EC2 instance](https://towardsdatascience.com/connecting-google-colab-to-an-amazon-ec2-instance-b61be9f9cf30)
  *  Once you have familiarized with [AWS and the AWS CLI](../aws/) - you can [access resources such as S3 on AWS from colab](https://medium.com/@lily_su/accessing-s3-bucket-from-google-colab-16f7ee6c5b51).
