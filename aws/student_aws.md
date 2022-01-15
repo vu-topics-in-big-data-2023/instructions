@@ -2,6 +2,8 @@
 - log in at [Student AWS Website](https://www.awsacademy.com/SiteLogin)
 - or Accept course invitation by selecting get started
 
+**Note**  - Every student receives 100 dollars credit at the start of the semester. These credits will decrease as you use the services. Watch your credits available in your AWS console. Remember to shut off all machines when you are done and not use these services for anything other than the class work.
+
 ![.](screenshots/aws_academy_email.png)
 
 - make an account
