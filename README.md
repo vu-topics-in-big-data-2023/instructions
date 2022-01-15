@@ -5,6 +5,7 @@
 - [python_resources](./python_resources.md) contains resources related to using Python
 - [linux commands](./linux_commands.md) contains frequently used commands and resources
 - [extra_reading](./extra_reading) contains extra reading that is helpful to know
+- [FAQ Microsoft Teams](./faq_microsoft_teams.pdf) contains faq related to microsoft teams
 
 - **video_demos** (on class Microsoft Teams) contains video demos for the following
   - Access AWS SQL DB using MySQL Workbench.mp4
