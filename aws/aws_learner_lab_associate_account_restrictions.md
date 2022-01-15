@@ -124,7 +124,7 @@ The following services can be used. Specific limitations apply as documented. Se
 - Amazon Route 53
     - You cannot register a domain
 - Amazon SageMaker
-    o Supported instance types: medium, large, and xlarge only.
+    - Supported instance types: medium, large, and xlarge only.
 - AWS Secrets Manager
 - AWS Security Hub
 - AWS Security Token Service (STS)
@@ -134,13 +134,13 @@ The following services can be used. Specific limitations apply as documented. Se
 - Amazon Simple Queue Service (SQS)
 - Amazon Simple Storage Service (S3)
 - Amazon Simple Storage Service Glacier (S3 Glacier)
-    o You cannot create a vault lock
+    - You cannot create a vault lock
 - Amazon Simple Workflow Service (SWF)
 - AWS Step Functions
 - AWS Storage Gateway
 - Amazon Sumerian
 - AWS Systems Manager (SSM)
-    o A role named LabRole and an instance profile named LabInstanceProfile have  been pre-created for you. You can attach the role (via the instance profile) to an  EC2 instance when you want to access an EC2 instance (terminal in the browser)  using AWS Systems Manager Session Manager.
+    - A role named LabRole and an instance profile named LabInstanceProfile have  been pre-created for you. You can attach the role (via the instance profile) to an  EC2 instance when you want to access an EC2 instance (terminal in the browser)  using AWS Systems Manager Session Manager.
 - Amazon Textract
 - Amazon Timestream
 - Amazon Transcribe

@@ -1,4 +1,3 @@
-
 # Student Learner Lab to AWS Management Console
 - log in at [Student AWS Website](https://www.awsacademy.com/SiteLogin)
 - or Accept course invitation by selecting get started
