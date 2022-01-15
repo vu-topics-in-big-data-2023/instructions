@@ -7,7 +7,7 @@
 - [extra_reading](./extra_reading) contains extra reading that is helpful to know
 - [FAQ Microsoft Teams](./faq_microsoft_teams.pdf) contains faq related to microsoft teams
 
-- **video_demos** (on class Microsoft Teams) contains video demos for the following
+- **video_demos** (on class Brightspace) contains video demos for the following
   - Access AWS SQL DB using MySQL Workbench.mp4
   - Connect to EC2 using PuTTY (Windows).mp4
   - Connect to EC2 using SSH (Mac & Linux).mp4
