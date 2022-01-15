@@ -7,3 +7,5 @@ Note for all these steps you will need to have obtaines the access to AWS academ
 [Tutorial: Get started with Amazon EC2 Linux instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EC2_GetStarted.html)
 
 [Connect to your EC2 machine using SSH](https://www.clickittech.com/aws/connect-ec2-instance-using-ssh/)
+
+**Note** always clean up your instance after you finish with your assignment.
