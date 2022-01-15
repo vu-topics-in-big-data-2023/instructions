@@ -29,4 +29,6 @@ AWS Management Console
 ![](screenshots/aws_management_console.png)
 
 # Other Resources
-[AWS Educate FAQ](https://aws.amazon.com/training/awsacademy/faq/)
+* [AWS Academy FAQ](https://aws.amazon.com/training/awsacademy/faq/)
+* [AWS Leader lab Guide](student_aws_academy_learner_lab_guide.pdf)
+* [AWS Services Available](aws_learner_lab_associate_account_restrictions)
